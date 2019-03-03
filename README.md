@@ -1,6 +1,8 @@
 Project DiceWars
 ===================
 
+Mini-project programming as part of a C course and modeling.
+
 Development of the game DiceWars composed of a graphical interface (SDL library) and an artificial intelligence.
 
 How to use ?
@@ -27,6 +29,8 @@ _______________
 
 Projet DiceWars
 ===================
+
+Mini-projet de programmation dans le cadre d'un cours de C et de modélisation.
 
 Développement du jeu DiceWars, composé d'une interface graphique (librairie SDL) et d'une intelligence artificielle.
 
